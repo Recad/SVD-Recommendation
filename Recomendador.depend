@@ -2,10 +2,11 @@
 1491699744 source:/home/dacer/Semestre febrero-junio 2017/Metodos/MiniProyecto/Recomendacion/Recomendador/main.cpp
 	<iostream>
 
-1491747940 source:/home/dacer/Semestre febrero-junio 2017/Metodos/MiniProyecto/Recomendacion/Recomendador/src/MatrizManager.cpp
+1491769772 source:/home/dacer/Semestre febrero-junio 2017/Metodos/MiniProyecto/Recomendacion/Recomendador/src/MatrizManager.cpp
 	"MatrizManager.hpp"
+	<bits/stdc++.h>
 
-1491748562 /home/dacer/Semestre febrero-junio 2017/Metodos/MiniProyecto/Recomendacion/Recomendador/include/MatrizManager.hpp
+1491769761 /home/dacer/Semestre febrero-junio 2017/Metodos/MiniProyecto/Recomendacion/Recomendador/include/MatrizManager.hpp
 	<iostream>
 	<fstream>
 	"jama_svd.h"
@@ -48,7 +49,7 @@
 1097874409 /home/dacer/Semestre febrero-junio 2017/Metodos/MiniProyecto/Recomendacion/Recomendador/include/tnt_math_utils.h
 	<cmath>
 
-1491745273 source:/home/dacer/Semestre febrero-junio 2017/Metodos/MiniProyecto/Recomendacion/Recomendador/src/main.cpp
+1491766454 source:/home/dacer/Semestre febrero-junio 2017/Metodos/MiniProyecto/Recomendacion/Recomendador/src/main.cpp
 	"MatrizManager.hpp"
 
 1491702587 /home/dacer/Semestre febrero-junio 2017/Metodos/MiniProyecto/Recomendacion/Recomendador/src/MatrizManager.cpp
